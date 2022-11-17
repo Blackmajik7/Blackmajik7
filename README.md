@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Blackmajik7
 - 👀 I’m interested in Video Games, Networking, Analytics.
-- 🌱 I’m currently learning Azure, AWS, Google Cloud
+- 🌱 I’m currently learning Beginner coding but want to learn Azure, AWS, and Google Cloud.
 - 💞️ I’m looking to collaborate on nothing yet, but hopfully something in the future.
 
 
